@@ -53,7 +53,7 @@ The analysis is conducted on multiple tables stored in an SQLite database, inclu
   ![image_anti](https://github.com/Pdeep666/DATA-ANALYSIS/blob/d954ff4626d965db4ef9b8546410c8652f551b61/AIRLINE_DATA_ANALYSIS/download.png)
 - **Aircraft with Long Range**: Determined the number of aircraft with a range exceeding 6000 km.
 - **Ticket Booking Trends**: Analyzed the number of tickets booked on each date to identify peak travel periods.
-![image_anti](
+![image_anti](https://github.com/Pdeep666/DATA-ANALYSIS/blob/59d101fe8d59a67d3a25e233881aeaf786df4de0/AIRLINE_DATA_ANALYSIS/download%20(1).png)
 ## Contributing
 
 Contributions are welcome! If you'd like to improve this project, feel free to submit pull requests or report issues.
