@@ -50,9 +50,10 @@ The analysis is conducted on multiple tables stored in an SQLite database, inclu
 - Determined operational inefficiencies affecting flight turnaround times.
 - **Total Revenue Generated**: Calculated overall revenue from ticket sales.
 - **Aircraft Bookings by Class**: Identified trends in bookings across Economy, Business, and First Class.
+  ![image_anti](https://github.com/Pdeep666/DATA-ANALYSIS/blob/d954ff4626d965db4ef9b8546410c8652f551b61/AIRLINE_DATA_ANALYSIS/download.png)
 - **Aircraft with Long Range**: Determined the number of aircraft with a range exceeding 6000 km.
 - **Ticket Booking Trends**: Analyzed the number of tickets booked on each date to identify peak travel periods.
-
+![image_anti](
 ## Contributing
 
 Contributions are welcome! If you'd like to improve this project, feel free to submit pull requests or report issues.
